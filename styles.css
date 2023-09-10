@@ -66,7 +66,7 @@ h3{
 	margin: 0;
 	padding: 4px;
 	/* add an underline like the one on the h2s to the h3s, but make it solid and mint color */
-	text-decoration: solid underline var(--mint); 4px
+	text-decoration: solid underline var(--mint) 4px;
 }
 
 nav{
@@ -86,9 +86,9 @@ nav a{
 	padding: 1rem;
 	background-color: var(--tiffany);
 	/* set the font color to #222 (--dk-gray) */
-	color: var(--dk-gray)
+	color: var(--dk-gray);
 	/* center align the text */
-	text-align: canter;
+	text-align: center;
 	/* remove the underline */
 	text-decoration: none;
 	/* make the font's size 1.2rem */
